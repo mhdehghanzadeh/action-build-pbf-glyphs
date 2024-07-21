@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: my-step
-        uses: linz/action-build-pbf-glyphs@v1
+        uses: mhdehghanzadeh/action-build-pbf-glyphs@v1
         with:
           source: fonts/
           target: build/fonts/
