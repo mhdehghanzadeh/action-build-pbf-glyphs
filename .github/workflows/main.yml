@@ -1,0 +1,4 @@
+uses: linz/action-build-pbf-glyphs@v1
+    with:
+        source: fonts/
+        target: build/fonts/
